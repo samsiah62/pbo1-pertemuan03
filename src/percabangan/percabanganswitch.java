@@ -12,10 +12,13 @@ public class percabanganswitch {
                 break;
             case 3:
                 System.out.println("ubat nyamuk");
+                break;
             case 4:
                 System.out.println("dubil dit");
-            case 5:
+                break;
+            default:
                 System.out.println("makhluk halus");
+                break;
         }
     }
 }
